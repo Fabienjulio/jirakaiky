@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e0d81e27.css",
+    "main.js": "/static/js/main.1b193b23.js",
+    "static/js/651.8edb2a55.chunk.js": "/static/js/651.8edb2a55.chunk.js",
+    "static/media/bill_payment.jpg": "/static/media/bill_payment.8a81545d739256c66cd3.jpg",
+    "static/media/paositra.png": "/static/media/paositra.c530b73dff0cbe74e6a7.png",
+    "static/media/jirakaiky.png": "/static/media/jirakaiky.46888a3418d7ba66dc6f.png",
+    "static/media/airtel.png": "/static/media/airtel.0cabce7b03e0a7727d80.png",
+    "index.html": "/index.html",
+    "main.e0d81e27.css.map": "/static/css/main.e0d81e27.css.map",
+    "main.1b193b23.js.map": "/static/js/main.1b193b23.js.map",
+    "651.8edb2a55.chunk.js.map": "/static/js/651.8edb2a55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0d81e27.css",
+    "static/js/main.1b193b23.js"
+  ]
+}
